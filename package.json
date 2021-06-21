@@ -51,7 +51,7 @@
     "dtslint": "^4.0.6",
     "eslint": "^7.17.0",
     "eslint-config-google": "^0.14.0",
-    "mocha": "^8.2.1",
+    "mocha": "^9.0.1",
     "node-env-run": "^4.0.2",
     "path": "^0.12.7",
     "typescript": "^4.1.3"
